@@ -1,0 +1,1 @@
+console.log('Scritp file is loaded.');
